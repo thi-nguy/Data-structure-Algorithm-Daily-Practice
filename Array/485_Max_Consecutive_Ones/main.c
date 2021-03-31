@@ -2,25 +2,29 @@
 #include <stdlib.h>
 #include <string.h>
 
-int	mco(int *nums, int numSize)
+int	mco(int *nums, int numsSize)
 {
-	int count;
+    int count;
 	int count_max;
 	int i;
 	
 	i = 0;
 	count = 0;
 	count_max = 0;
-	while (i <= numSize)
+	while (i < numsSize)
 	{
 		if (nums[i] == 1)
-			count++;
-		else if (nums[i] == 0 || i == numSize)
+        {
+            count++;
+            if (i == numsSize - 1)
+                count_max = (count > count_max ? count : count_max);
+        }
+		else if (nums[i] == 0)
 		{
-			if (count >= count_max)
-				count_max = count;
+			count_max = (count > count_max ? count : count_max);
 			count = 0;
 		}
+        
 		i++;
 	}
 	return (count_max);
@@ -31,7 +35,7 @@ int	main(int ac, char **av)
 	int count;
 	int *array;
 	int i;
-	int numSize;
+	int numsSize;
 	int len;
 
 	if (ac > 2)
@@ -42,9 +46,9 @@ int	main(int ac, char **av)
 	len = strlen(av[1]);
 	if(!(array = (int *)malloc((len + 1) * sizeof(int))))
 		return (0);
-	numSize = len;
+	numsSize = len;
 	i = 0;
-	while (numSize > 0)
+	while (numsSize > 0)
 	{
 		if (av[1][i] != '0' && av[1][i] != '1')
 		{
@@ -55,7 +59,7 @@ int	main(int ac, char **av)
 		}
 		array[i] = av[1][i] - '0';
 		i++;
-		numSize--;
+		numsSize--;
 	}
 	count = mco(array, len);
 	printf("Output is: %i\n", count);
