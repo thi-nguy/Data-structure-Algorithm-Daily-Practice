@@ -6,4 +6,4 @@ Ex:
 > Output is: 4.
 ## Run Program in Python:
 - Go to folder py_code.
-- 
+- `py.test -v`

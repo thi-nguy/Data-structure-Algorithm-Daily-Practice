@@ -24,7 +24,6 @@ int	mco(int *nums, int numsSize)
 			count_max = (count > count_max ? count : count_max);
 			count = 0;
 		}
-        
 		i++;
 	}
 	return (count_max);
