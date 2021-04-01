@@ -11,8 +11,3 @@ def find_mco(nums: List[int]) -> int:
             count_max = max(count, count_max)
             count = 0
     return (max(count, count_max))
-
-
-            
-
-        
