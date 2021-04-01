@@ -1,6 +1,6 @@
 from typing import List
 
-# class Solution: if we have class here, how do we use pytest?
+# ! class Solution: if we have class here, how do we use pytest?
 def find_mco(nums: List[int]) -> int:
     count = 0
     count_max = 0
