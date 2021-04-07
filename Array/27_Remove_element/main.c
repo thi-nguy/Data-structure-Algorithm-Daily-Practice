@@ -4,31 +4,19 @@ int removeElement(int* nums, int numsSize, int val)
 {
     int i;
     int j;
-    int count;
     
     i = 0;
-    count = 0;
+    j = 0;
     while (i < numsSize)
     {
-        if (nums[i] == val)
+        if (nums[i] != val)
         {
-            j = i;
-            while (i < numsSize - 1)
-            {
-                if (nums[i + 1] != val)
-                {
-                    nums[j] = nums[i + 1];
-                    count++;
-                    j++;
-                }
-                i++;
-            }
+            nums[j] = nums[i];
+            j++;
         }
-        else
-            count++;
         i++;
     }
-    return (count);
+    return (j);
 }
 
 void	print_array(int *nums, int numsSize)
