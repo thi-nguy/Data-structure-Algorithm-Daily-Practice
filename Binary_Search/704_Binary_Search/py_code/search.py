@@ -4,7 +4,7 @@ def search(nums, target):
     left = 0
     right = len(nums) - 1
     while (left <= right):
-        mid = round((left + right) / 2)
+        mid = (left + right) // 2 # ! floor division: 29//10 == 2
         if (nums[mid] > target):
             right = mid - 1
         elif (nums[mid] < target):
