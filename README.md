@@ -13,5 +13,9 @@
 - [1089. Duplicate Zeros](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1089_Duplicate_Zeros)
 - [88. Merge Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/88_Merge_sorted_array)
 #### Deleting Items from an Array
-- [27. Remove Element]()
-- [26. Remove Duplicates from Sorted Array]()
+- [27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)
+- [26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)
+### Binary Search
+#### Background
+- [704. Binary Search]()
+
