@@ -2,34 +2,24 @@
 
 int     search(int *nums, int numsSize, int target)
 {
+    int left;
+    int right;
     int mid;
-    int range;
 
-    if (numsSize < 1)
+    if(numsSize <= 0)
         return (-1);
-    mid = (numsSize - 1) / 2;
-    range = mid / 2;
-    while (range > 0)
+    left = 0;
+    right = numsSize - 1;
+    while (left <= right)
     {
+        mid = (right + left) / 2;
         if (nums[mid] > target)
-            mid = mid - range;
+            right = mid - 1;
         else if (nums[mid] < target)
-            mid = mid + range;
-        else if (nums[mid] == target)
+            left = mid + 1;
+        else
             return (mid);
-        range /= 2;
     }
-    if (mid > 0)
-    {
-        if (nums[mid + 1] == target)
-            return (mid + 1);
-        else if (nums[mid - 1] == target)
-            return (mid - 1);
-    }
-    else if (nums[mid] == target)
-        return (mid);
-    else if (nums[mid + 1] == target)
-        return (mid + 1);
     return (-1);
 }
 
