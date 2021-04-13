@@ -1,4 +1,4 @@
-# Data Structure and Algorithm - Daily Practice
+Data Structure and Algorithm - Daily Practice
 - Exercices on LeetCode, solved by C and Python.
 ## Objective:
 - Learn Data Structure and Algorithm on a daily basis.
@@ -18,4 +18,11 @@
 ### Binary Search
 #### Background
 - [704. Binary Search]()
+#### Template I
+- [69. Sqrtx]()
+- [374. Guess Number Higher or Lower]()
+- []()
+### Ternary Search
+
+
 
