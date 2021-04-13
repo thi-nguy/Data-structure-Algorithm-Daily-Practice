@@ -17,10 +17,10 @@ Data Structure and Algorithm - Daily Practice
 - [26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)
 ### Binary Search
 #### Background
-- [704. Binary Search]()
+- [704. Binary Search](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/704_Binary_Search)
 #### Template I
-- [69. Sqrtx]()
-- [374. Guess Number Higher or Lower]()
+- [69. Sqrtx](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/69_Sqrtx)
+- [374. Guess Number Higher or Lower](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/374_Guess_Number_Higher_or_Lower)
 - []()
 ### Ternary Search
 
