@@ -18,17 +18,17 @@
 |[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
 ### Binary Search
-||Dificulty|
-|:-|:-:|
+||Dificulty|Time Complexity|
+|:-|:-|:-|
 |**Background**|
-|[704. Binary Search](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/704_Binary_Search)|**<span style="color:green">Easy</span>**|
+|[704. Binary Search](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/704_Binary_Search)|**<span style="color:green">Easy</span>**|O(logn)|
 |**Template I**|
-|[69. Sqrtx](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/69_Sqrtx)|**<span style="color:green">Easy</span>**|
-|[374. Guess Number Higher or Lower](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/374_Guess_Number_Higher_or_Lower)|**<span style="color:green">Easy</span>**|
-|[33. Search in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/33_Search_in_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|
+|[69. Sqrtx](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/69_Sqrtx)|**<span style="color:green">Easy</span>**|O(logn)|
+|[374. Guess Number Higher or Lower](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/374_Guess_Number_Higher_or_Lower)|**<span style="color:green">Easy</span>**|O(logn)|
+|[33. Search in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/33_Search_in_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|O(logn)|
 |**Template II**|
-|[278. First Bad Version](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/278_First_Bad_Version)|<span style="color:green">Easy</span>|
-|[162. Find Peak Element]()|
+|[278. First Bad Version](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/278_First_Bad_Version)|**<span style="color:green">Easy</span>**|O(logn)|
+|[162. Find Peak Element]()|**<span style="color:orange">Medium</span>**|O(logn)|
 |[153. Find Minimum in Rotated Sorted Array]()|
 ### Ternary Search
 
