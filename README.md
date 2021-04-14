@@ -27,7 +27,7 @@
 |[374. Guess Number Higher or Lower](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/374_Guess_Number_Higher_or_Lower)|**<span style="color:green">Easy</span>**|
 |[33. Search in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/33_Search_in_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|
 |**Template II**|
-|[278. First Bad Version]()|**<span style="color:green">Easy</span>**|
+|[278. First Bad Version](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/278_First_Bad_Version)|<span style="color:green">Easy</span>|
 |[162. Find Peak Element]()|
 |[153. Find Minimum in Rotated Sorted Array]()|
 ### Ternary Search
