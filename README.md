@@ -17,6 +17,8 @@
 |**Deleting Items from an Array**|
 |[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
+|**Searching for Items in an Array**|
+
 ### Binary Search
 ||Dificulty|Time Complexity|Space Complexity|
 |:-|:-:|:-:|:-:|
@@ -29,7 +31,11 @@
 |**Template II**|
 |[278. First Bad Version](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/278_First_Bad_Version)|**<span style="color:green">Easy</span>**|O(logn)|O(1)|
 |[162. Find Peak Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/162_Find_Peak_Element)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
-|[153. Find Minimum in Rotated Sorted Array]()|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+|[153. Find Minimum in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/153_Find_min_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+|**Template III**|
+|[34. Search for a Range]()|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+|[658. Find K Closest Elements]()|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+
 ### Ternary Search
 
 
