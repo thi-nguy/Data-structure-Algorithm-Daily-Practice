@@ -3,8 +3,7 @@
 ## Objective:
 - Learn Data Structure and Algorithm on a daily basis.
 - Acquire skills on Python and enhance C's.
-## Project contents
-### Array
+## Array
 ||Dificulty|
 |:-|:-:|
 |**Introduction**|
@@ -17,9 +16,11 @@
 |**Deleting Items from an Array**|
 |[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
-|**Searching for Items in an Array**|
+|**Searching for Items in an Array**|  
+|[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)||
+|[941. Valid Mountain Array]()||
 
-### Binary Search
+## Binary Search
 ||Dificulty|Time Complexity|Space Complexity|
 |:-|:-:|:-:|:-:|
 |**Background**|
@@ -33,10 +34,14 @@
 |[162. Find Peak Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/162_Find_Peak_Element)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
 |[153. Find Minimum in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/153_Find_min_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
 |**Template III**|
-|[34. Search for a Range]()|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
-|[658. Find K Closest Elements]()|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+|[34. Search for a Range](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/34_Search_for_a_range)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
+|[658. Find K Closest Elements]()|**<span style="color:orange">Medium</span>**|O(logn + klogk + k)|Not finished yet|  
 
-### Ternary Search
+## Binary Tree
+## Queue & Stack
+## Recursion I
+## Recursion II
+## Ternary Search
 
 
 
