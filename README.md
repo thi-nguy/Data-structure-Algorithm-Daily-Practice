@@ -4,8 +4,8 @@
 - Learn Data Structure and Algorithm on a daily basis.
 - Acquire skills on Python and enhance C's.
 ## Array
-||Dificulty|
-|:-|:-:|
+||Dificulty|Time Complexity|Space Complexity|Notes|
+|:-|:-:|:-:|:-:|:-|
 |**Introduction**|
 |[485.  Max Consecutive Ones](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/485_Max_Consecutive_Ones)|**<span style="color:green">Easy</span>**|
 |[1295. Find Numbers with Even Number of Digits](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1295_Find_number_with_even_number_of_digits)|**<span style="color:green">Easy</span>**|
@@ -17,8 +17,8 @@
 |[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
 |**Searching for Items in an Array**|  
-|[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)||
-|[941. Valid Mountain Array]()||
+|[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)|**<span style="color:green">Easy</span>**|O(N)|O(N)|To be continued...|
+|[941. Valid Mountain Array]()|**<span style="color:green">Easy</span>**|O(N)|O(1)|
 
 ## Binary Search
 ||Dificulty|Time Complexity|Space Complexity|
