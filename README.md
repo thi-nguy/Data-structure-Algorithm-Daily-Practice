@@ -36,7 +36,11 @@
 |**Template III**|
 |[34. Search for a Range](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/34_Search_for_a_range)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
 |[658. Find K Closest Elements]()|**<span style="color:orange">Medium</span>**|O(logn + klogk + k)|Not finished yet|  
-
+## Hash Table
+||Dificulty|
+|:-|:-:|
+|**Design a Hash Table**|
+|[]()||
 ## Binary Tree
 ## Queue & Stack
 ## Recursion I

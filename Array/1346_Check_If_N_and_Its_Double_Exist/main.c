@@ -1,6 +1,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
+// O(N^2)
 bool checkIfExist(int* arr, int arrSize)
 {
     int i;
@@ -20,6 +21,8 @@ bool checkIfExist(int* arr, int arrSize)
     }
     return (false);
 }
+
+
 
 int     main(void)
 {
