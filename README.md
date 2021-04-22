@@ -14,7 +14,7 @@
 |[1089. Duplicate Zeros](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1089_Duplicate_Zeros)|**<span style="color:green">Easy</span>**|
 |[88. Merge Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/88_Merge_sorted_array)|**<span style="color:green">Easy</span>**|
 |**Deleting Items from an Array**|
-|[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
+|[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|O(N)|O(1)|
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|O(N)|O(1)|Two-pointer technique, In-place operation|
 |**Searching for Items in an Array**|  
 |[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)|**<span style="color:green">Easy</span>**|O(N)|O(N)|To be continued...|
