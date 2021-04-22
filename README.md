@@ -18,7 +18,13 @@
 |[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
 |**Searching for Items in an Array**|  
 |[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)|**<span style="color:green">Easy</span>**|O(N)|O(N)|To be continued...|
-|[941. Valid Mountain Array]()|**<span style="color:green">Easy</span>**|O(N)|O(1)|
+|[941. Valid Mountain Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/941_Valid_Mountain_Array)|**<span style="color:green">Easy</span>**|O(N)|O(1)||  
+|**In-Place Operations**|
+|[1299. Replace Elements with Greatest Element on Right Side]()|**<span style="color:green">Easy</span>**|O(N)|O(N)|
+|[283. Move Zeroes]()|**<span style="color:green">Easy</span>**|
+|[905. Sort Array By Parity]()|**<span style="color:green">Easy</span>**|
+
+
 
 ## Binary Search
 ||Dificulty|Time Complexity|Space Complexity|
