@@ -15,13 +15,13 @@
 |[88. Merge Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/88_Merge_sorted_array)|**<span style="color:green">Easy</span>**|
 |**Deleting Items from an Array**|
 |[27. Remove Element](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/27_Remove_element)|**<span style="color:green">Easy</span>**|
-|[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|
+|[26. Remove Duplicates from Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|**<span style="color:green">Easy</span>**|O(N)|O(1)|Two-pointer technique, In-place operation|
 |**Searching for Items in an Array**|  
 |[1346. Check If N and Its Double Exist](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1346_Check_If_N_and_Its_Double_Exist)|**<span style="color:green">Easy</span>**|O(N)|O(N)|To be continued...|
 |[941. Valid Mountain Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/941_Valid_Mountain_Array)|**<span style="color:green">Easy</span>**|O(N)|O(1)||  
 |**In-Place Operations**|
-|[1299. Replace Elements with Greatest Element on Right Side]()|**<span style="color:green">Easy</span>**|O(N)|O(N)|
-|[283. Move Zeroes]()|**<span style="color:green">Easy</span>**|
+|[1299. Replace Elements with Greatest Element on Right Side](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/1299_Replace_Elements_with_Greatest_Element_on_Right_Side)|**<span style="color:green">Easy</span>**|O(N)|O(N)|
+|[283. Move Zeroes]()|**<span style="color:green">Easy</span>**|O(N)|O(1)|Like problem [#26](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Array/26_Remove_Duplicates_from_Sorted_Array)|
 |[905. Sort Array By Parity]()|**<span style="color:green">Easy</span>**|
 
 
