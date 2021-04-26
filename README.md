@@ -1,5 +1,7 @@
 # Data Structure and Algorithm - Daily Practice
 - Exercices on LeetCode, solved by C and Python.
+- The project started on 31-03-2021.
+- Solve one problem each day.
 ## Objective:
 - Learn Data Structure and Algorithm on a daily basis.
 - Acquire skills on Python and enhance C's.
