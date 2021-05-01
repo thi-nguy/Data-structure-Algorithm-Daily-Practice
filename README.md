@@ -45,13 +45,20 @@
 |[153. Find Minimum in Rotated Sorted Array](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/153_Find_min_Rotated_Sorted_Array)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
 |**Template III**|
 |[34. Search for a Range](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/34_Search_for_a_range)|**<span style="color:orange">Medium</span>**|O(logn)|O(1)|
-|[658. Find K Closest Elements]()|**<span style="color:orange">Medium</span>**|O(logn + klogk + k)|Not finished yet|  
+|[658. Find K Closest Elements](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Binary_Search/658_Find_K_Closest_Elements)|**<span style="color:orange">Medium</span>**|O(logn + klogk + k)|Not finished yet|  
+
+## Linked List
+||Dificulty|
+|:-|:-:|
+|707. Design Linked List|**<span style="color:orange">Medium</span>**|
 
 ## Hash Table
 ||Dificulty|
 |:-|:-:|
-|705. Design Hash Set|**<span style="color:green">Easy</span>**|
+|[705. Design Hash Set](https://github.com/thi-nguy/Data-structure-Algorithm-Daily-Practice/tree/main/Hash_Table/705_Design_Hash_Set)|**<span style="color:green">Easy</span>**|
 |706. Design Hash Map|**<span style="color:green">Easy</span>**|
+
+
 
 
 ## Queue & Stack
@@ -59,4 +66,3 @@
 ## Binary Search Tree
 ## Recursion I
 ## Recursion II
-## Linked List
